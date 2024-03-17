@@ -1,3 +1,6 @@
+All files compatible with linux gcc. Compile gcc file.c -o file.
+As well as Windows Bloodshed Dev C++. There are command line tools.
+
 3lot	Creates x number of drawings for 3 number lottery w/ drawing number.
 3lota	Creates x number of drawings for 3 number lottery w/o drawing number.
 4lot    Creates x number of drawings for 4 number lottery w/ drawing number.
