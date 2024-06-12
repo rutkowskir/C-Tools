@@ -14,6 +14,7 @@ ch1	Converts linux chmod codes to permissions (rwx) and back.
 ch2	Converts linux chmod codes to permissions (rwx) and back.
 chacnt	Displays each character in a file and number of occurences.
 cnt	Displays each character in a file and number of occurences with total number.
+comde Compresses and Decompresses files. i.e. comde compress <filein> <fileout>, comde decompress <Filein> <fileout>
 comp	Compares differences in 2 files.
 dec	Simulates a VAX/VMS Boot.
 endc	Encrypts and Decrypts a file.
